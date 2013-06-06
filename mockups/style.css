@@ -1,0 +1,10 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.relatedData {
+    position: absolute; top: 0px; bottom: 0px;
+    right: 0px;
+    background-color: #9BA4B0;
+    color: #FFF;
+}
